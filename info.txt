@@ -1,0 +1,13 @@
+hello
+
+    git add
+    git commit -m
+    git status
+
+
+
+learn
+    git log --oneline
+    git checkout
+    git revert
+    git reset --hard
