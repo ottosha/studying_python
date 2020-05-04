@@ -1,3 +1,2 @@
 # studying_python
-
-1st change from ottosha
+# м что тут
