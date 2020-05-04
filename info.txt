@@ -1,5 +1,5 @@
 hello
-
+    git init
     git add
     git commit -m
     git status
@@ -11,3 +11,13 @@ learn
     git checkout
     git revert
     git reset --hard
+
+
+    git push -u origin master
+    git pull origin
+
+
+    git merge forum
+    git branch forum
+    git checkout -b forum
+    git remote add origin <>
