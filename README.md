@@ -1,4 +1,5 @@
-# studying_python
-# м что тут
-ну а теперь
+**studying_python**
+
+#to learn Git
+
         **helloworld**

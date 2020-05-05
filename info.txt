@@ -19,5 +19,6 @@ learn
 
     git merge forum
     git branch forum
+    git branch -D forum
     git checkout -b forum
     git remote add origin <>
